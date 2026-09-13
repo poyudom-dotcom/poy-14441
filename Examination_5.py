@@ -7,7 +7,7 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-age = int(input())
+Age = int(input())
 
 if age < 12:
     print(50)
